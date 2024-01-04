@@ -1,4 +1,3 @@
-https://www.yenicozum.com/core/uploads/page/gallery/400_1701197229540.jpg
 <h1 align="center">Merhaba 👋, ben Anıl KORKMAZ</h1>
 <h3 align="center">Türkiye'den tutkulu bir ön uç geliştiricisi</h3>
 
