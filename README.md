@@ -1,4 +1,4 @@
-<h2> Merhaba. Ben Anıl Korkmaz @Anilkrkmz1</h2>
+<h2> Merhaba. Ben Anıl Korkmaz </br>@Anilkrkmz1</h2>
 
 <h3 align="left">Languages and Tools:</h3>
 
